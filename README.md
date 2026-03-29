@@ -12,6 +12,6 @@
 
 ☁️ **Carbon Ledger** — SOC density map, Gold Tier earnings display (₹8,832), 5-year projection chart
 
-⚖️** Auto-Insurance** — ERA5 rainfall display, 3-policy status table, 30-day daily rainfall chart
+⚖️ **Auto-Insurance** — ERA5 rainfall display, 3-policy status table, 30-day daily rainfall chart
 
 📊 **Market Oracle** — price vs harvest peak overlay chart, strategy comparison table, mandi price feed
