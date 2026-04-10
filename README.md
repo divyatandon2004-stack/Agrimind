@@ -1,4 +1,8 @@
-**All 7 module pages with real mock data and working interactions**:
+Basically This Project is Like Making A Virtual Farm For the Farmers With All the Conditions Of A real Farm On The Specific Soil Type and Cliamatic Conditions. 
+With the Help of This the Farmers Can Understand Whether Their crop is At the Optimal Health and There is A Special Feature in this Which Tells Which Part Of Filed Actually Needs Fertilzer and Which Fertilizer they Need. 
+So, It Keeps The Fertility of the Fields Higher than Earlier Because Putting Fertilizer All Over the Field Just Reduces and Kills the Soil Biota (Organisms Living in Soil)/  & Organic Content.
+
+These are Al the Features This Wesite Will Have 
 
 **Dashboard** — farm health overview, module gallery cards, weather bar
 
